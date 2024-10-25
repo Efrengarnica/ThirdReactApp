@@ -1,2 +1,0 @@
-# Tercera aplicación de React
-Lo más destacable de esta aplicación fue que aprendí el concepto de props.children, escribiendo el componente de manera distinta. También apredí a instalar una librería, llamada mathjs de JS, que me ayudó a poder realizar las operaciones matemáticas de mi calculadora, cabe mencionar que una vez intalada con el comando `npm install mathjs` se debe de importar la función que vas a ocupar de la libreria en el archivo .jsx en el que la vas a ocupar.
